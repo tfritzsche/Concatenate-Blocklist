@@ -31,7 +31,7 @@ def helpmessage():
 	print """
 	%s, by Adam Cox
 	This program can be used, in conjuction with Transmission,
-	to automatically merge serveral iBlocklist files into a
+	to automatically merge sereveral iBlocklist files into a
 	single blocklist. 
 	When supplied with the file location of a 
 	\'blocklist menu\', it will download every individual blocklist 
