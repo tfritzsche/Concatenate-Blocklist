@@ -29,7 +29,7 @@ import glob
   
 def helpmessage():
 	print """
-	%s, by Adam Cox
+	Concatblocklist, by Adam Cox
 	This program can be used, in conjuction with Transmission,
 	to automatically merge sereveral iBlocklist files into a
 	single blocklist. 
@@ -60,7 +60,7 @@ def helpmessage():
 	GNU General Public License for more details.
 
     See <http://www.gnu.org/licenses/> for a copy of the GNU General Public License
-    """ % (sys.argv[0])[:-3]
+    """
 	
 def downloadURL(url):
 
